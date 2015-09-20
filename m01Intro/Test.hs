@@ -1,3 +1,3 @@
 module Test where
 
-sayHello = putStrLn "Hello from module Test!"
+sayHello = putStrLn "Hello World from module Test!"
